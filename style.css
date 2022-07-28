@@ -5,3 +5,13 @@
 .price-color {
     color: #289BDE;
 }
+
+.title-color {
+    color: #4A4A4A;
+    font-size: 25px;
+}
+
+.card-text {
+    color: #777777;
+    font-size: 16px;
+}
