@@ -15,3 +15,16 @@
     color: #777777;
     font-size: 16px;
 }
+
+.pg-text-color {
+    color: #777777;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.review-header {
+    color: #1D1D1D;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 45px;
+}
